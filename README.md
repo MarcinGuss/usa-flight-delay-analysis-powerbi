@@ -18,3 +18,13 @@ Interactive Power BI dashboard analyzing flight delays across multiple airports 
 - Power BI
 - DAX
 - Power Query
+- 
+## Dashboard Preview
+
+### Summary Page
+
+![Summary Dashboard](summary-page.png)
+
+### Year Details Page
+
+![Year Details Dashboard](years-details.png)
